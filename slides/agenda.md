@@ -4,7 +4,7 @@
 - 10h00 : Le mot du 110Bis
 - 10h05 : Ouverture de l'openlab
 - 10h15 : Brise-glace
-- 10h20 : Ateliers : vos besoins pour une inscription simple
+- 10h20 : Ateliers
 - 11h45 : Restitution
 - 12h15 : Clôture
 - 12h25 : Démonstration
