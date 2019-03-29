@@ -2,8 +2,8 @@
 
 - Choisir les options pédagogiques
 
-- Fournir les pièces
+- Fournir les justificatifs
 
-- Accueillir les familles
+- Quelles relations avec les familles
 
-- Ecouter les publics fragiles
+- Vie de l'élève (sortie, régime, image)
